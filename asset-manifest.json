@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Props-002/static/css/main.ca642157.css",
+    "main.js": "/React-Props-002/static/js/main.8613e81d.js",
+    "index.html": "/React-Props-002/index.html",
+    "main.ca642157.css.map": "/React-Props-002/static/css/main.ca642157.css.map",
+    "main.8613e81d.js.map": "/React-Props-002/static/js/main.8613e81d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca642157.css",
+    "static/js/main.8613e81d.js"
+  ]
+}
